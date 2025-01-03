@@ -1,5 +1,0 @@
-# first program in rust
-# printing hello world to the terminal
-fn main() {
-  print!("Hello, world!!");
-}
